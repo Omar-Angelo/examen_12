@@ -1,0 +1,111 @@
+.calculadora{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: black ;
+    width: 345px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.calculadora td button{
+    display: block;
+    width: 70px;
+    height: 70px;
+    font-size: 25px;
+    padding: 25px;
+    margin: 4px;
+}
+
+#resultado{
+    display: block;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+    width: 320px;
+    height: 80px;
+    line-height: 100px;
+    background-color: white;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+
+
+
+/*todo list*/
+.padre2{
+    width: 750px;
+    padding: 10px;
+    background-color: rgb(136, 117, 117);
+    margin: 20px auto;
+}
+.contenedor {
+    
+    width: 95%;
+    margin:0 auto;
+    border-radius: 10px;
+    font-family: helvetica;
+  }
+  #header > button {
+    border: 0;
+    color: white;
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    padding: 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+   #tabla tr {
+    width: 95%;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-around;
+   border: 1px solid black;
+    
+  }
+  
+  
+  #tabla button {
+    padding: 5px;
+    border-radius: 30%;
+  }
+  
+   button:hover {
+    background-color: red;
+    color: white;
+  }
+  #header{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+  }
+  .contenedor h2{
+      font-size: 30px;
+  }
+  #input{
+      width: 400px;
+  }
+  .completado{
+    background-color: lightgreen;
+    color: black;
+  }
+  
+  
+  
+  
+ 
+  
+  
+
+  
+  
+  
+
+
